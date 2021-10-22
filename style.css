@@ -1,0 +1,31 @@
+
+h1  {
+    margin-top: -20px;
+    color: rgb(238, 50, 17);
+    background-color: rgb(255, 255, 255);
+    font-family: 'Calistoga', cursive;
+    text-align: left;
+    font-size: 50pt;
+    padding: 0%
+}
+
+div.left  {
+    background-color: rgb(238, 50, 17);
+    float: left;
+    color: white
+
+}
+div.right  {
+    background-color: rgb(40, 43, 202);
+    float: right;
+    color: white;
+
+}
+div.center  {
+    background-color: rgb(255, 255, 255);
+    height: 440px;
+    width: 330px;
+    padding: 3%;
+    float: left;
+    
+}
